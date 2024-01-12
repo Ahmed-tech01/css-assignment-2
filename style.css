@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  text-transform: capitalize;
+  background-color: pink;
+  font-family: sans-serif;
+}
+#home {
+  color: green;
+  background-color: lightgreen;
+}
+#text {
+  color: yellow;
+  background-color: lightgoldenrodyellow;
+}
